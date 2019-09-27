@@ -10,7 +10,7 @@ public class Regnemaksine {
         String username = input.nextLine();
         input.close();
 
-        System.out.println("Addition: " + (a+f));
+        
         System.out.println("Subtraktion: " + (a-f));
         System.out.println("Multiplikation: " + (a*f));
         System.out.println("Division: " + (a/f));
