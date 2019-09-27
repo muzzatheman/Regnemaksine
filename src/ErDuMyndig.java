@@ -8,7 +8,7 @@ public class ErDuMyndig {
         if (age<=18)
         System.out.println("Du er ikke gammel nok");
         else
-        System.out.println("Tillykke med fødselsdagen Moussa");
+        System.out.println("Tillykke  fødselsdagen Moussa");
 
     }
 }
