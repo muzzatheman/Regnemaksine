@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Verisions styrrelse øvelse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Verisions_styrrelse_øvelse_jar</output-path>
+    <root id="archive" name="Verisions styrrelse øvelse.jar">
+      <element id="module-output" name="Verisions styrrelse øvelse" />
+    </root>
+  </artifact>
+</component>
